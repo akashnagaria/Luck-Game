@@ -348,7 +348,7 @@ class match
        cprintf("MADE BY");
        gotoxy(33,12);
        textcolor(BLUE);
-       cprintf("JAYESH KUMAR");
+       cprintf("Akash Nagaria");
        gotoxy(28,14);
        textbackground(WHITE);textcolor(RED+BLINK);
        cprintf("\n\n\nPRESS ENTER TO CONTINUE");
